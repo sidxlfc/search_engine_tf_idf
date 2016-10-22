@@ -1,0 +1,3 @@
+*.zip
+/backup
+/.ipnyb_checkpoints
